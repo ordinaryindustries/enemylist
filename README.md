@@ -1,1 +1,3 @@
-# enemylist
+# Enemy List
+
+Empty...for now
